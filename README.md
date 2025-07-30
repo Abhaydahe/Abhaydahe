@@ -66,7 +66,7 @@ I'm a self-motivated and detail-oriented **Data Analytics enthusiast** passionat
 
 ### 📄 Resume
 
-[📎 Click Here to View My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6874b131ceeb84e776994178)
+[📎 Click Here to View My Resume](https://drive.google.com/file/d/1q6C1fLNEKLSolWBxzY2I9qxebVLG06X9/view?usp=sharing)
 
 ---
 
