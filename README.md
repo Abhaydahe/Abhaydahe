@@ -44,8 +44,12 @@ I'm a self-motivated and detail-oriented **Data Analytics enthusiast** passionat
 
 ### 💼 Featured Projects
 
+- 📘 **Climate-Data-Dashboard-using-AWS-S3 → Snowflake → Power → BI**  
+  Built an end-to-end BI solution to analyze Rainfall, Temperature, and Humidity data across crops, regions, and seasons using Power BI. The pipeline included uploading raw data to AWS S3, loading it into Snowflake via SQL, and visualizing it in Power BI to derive meaningful climate insights. 
+  _[🔗 View Project](https://github.com/Abhaydahe/Climate-Data-Dashboard-using-AWS-S3-Snowflake-Power-BI)_
+
 - 📘 **Web Scraping of Book Listings**  
-  Scraped book titles, prices, and availability using BeautifulSoup and stored in CSV.  
+  Scraped book titles, prices, and availability using BeautifulSoup and stored in CSV Performed SQL Analysis and Data Visualization.  
   _[🔗 View Project](https://github.com/Abhaydahe/WebScrapping-and-Data-Visualization)_
 
 - 📊 **Customer Sales Power BI Dashboard**  
