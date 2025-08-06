@@ -71,7 +71,7 @@ I'm a self-motivated and detail-oriented **Data Analytics enthusiast** passionat
 
 ### 📄 Resume
 
-[📎 Click Here to View My Resume](https://drive.google.com/file/d/1F3md2U9l1Ocq8KmwSv93U9yY6GwNgl5s/view?usp=sharing)
+[📎 Click Here to View My Resume](https://drive.google.com/file/d/1J8FA7FtWmUeoPDtohw44xNuEI3opowuO/view?usp=sharing)
 
 ---
 
