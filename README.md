@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Dahe</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel • Google Cloud</h3>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel | AWS S3 | Snowflake</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions+📊;Data+driven+solutions+for+real+business+problems" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhaydahe&label=Profile%20views&color=0e75b6&style=flat" alt="Abhaydahe" />
