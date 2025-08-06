@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel | AWS S3 | Snowflake</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions+📊;Data+driven+solutions+for+real+business+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions+📊;Data-driven+business+solutions;From+raw+data+to+insights;Forecasting+with+Power+BI" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhaydahe&label=Profile%20views&color=0e75b6&style=flat" alt="Abhaydahe" />
@@ -11,21 +12,24 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### 💼 About Me
 
-I'm a self-motivated and detail-oriented **Data Analytics enthusiast** passionate about transforming data into insights that drive business decisions.
+🔍 I’m a highly motivated Data Analytics enthusiast with a B.Tech in Computer Science and hands-on experience in:
+- **Data Cleaning, Manipulation & Visualization**
+- **Building Dashboards in Power BI**
+- **Data Pipeline using AWS S3 → Snowflake → Power BI**
+- **Web Scraping & Exploratory Data Analysis (EDA)**
 
-- 🎓 **B.Tech in Computer Engineering**  
-- 📚 Completed Data Analytics program at **Masai School** (Python, SQL, Power BI, Excel, Statistics)
-- 💡 Strong interest in solving real-world business problems using data
-- 🌟 Looking for opportunities to work on impactful data projects
+💡 I’m passionate about solving real-world problems through data and continuously learning tools that bridge the gap between raw data and actionable insights.
+
+📚 Currently learning: **Data Pipelines, ETL Concepts, BigQuery, and Advanced Python**
 
 ---
 
 ### 🎓 Education
 
 - **B.Tech - Computer Engineering**  
-  Sandip University , Nashik (2022 – 2025)
+  Sandip University, Nashik (2022 – 2025)
 
 ---
 ### 🎯 Skills
@@ -33,18 +37,19 @@ I'm a self-motivated and detail-oriented **Data Analytics enthusiast** passionat
 - Data Analysis & Cleaning  
 - Exploratory Data Analysis (EDA)  
 - Business Intelligence  
-- A/B Testing and Hypothesis Testing  
 - Web Scraping  
 - Data Visualization  
 - Report & Dashboard Development  
 - Problem Solving & Critical Thinking  
-- Communication & Business Acumen
 
 ### 🧰 Tools & Technologies
 
 #### 🛠️ Core Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)    ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-005A9C?style=for-the-badge&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SNOWFLAKE](https://img.shields.io/badge/SNOWFLAKE-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![Statistics](https://img.shields.io/badge/Statistics-005A9C?style=for-the-badge&logoColor=white) 
+
+  ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+        ![SNOWFLAKE](https://img.shields.io/badge/SNOWFLAKE-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 ---
 
 ### 💼 Featured Projects
