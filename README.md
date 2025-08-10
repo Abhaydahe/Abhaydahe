@@ -70,8 +70,16 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-</div>
 
+### 🎯 Digital Marketing & Analytics
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Facebook Analytics](https://img.shields.io/badge/Facebook%20Analytics-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Campaign Management](https://img.shields.io/badge/Campaign%20Management-FF6B35?style=for-the-badge&logo=target&logoColor=white)
+
+</div>
 ---
 
 ### 💼 Featured Projects
@@ -92,15 +100,30 @@
    [![Project](https://img.shields.io/badge/View%20Project-Sales%20Dashboard-orange?style=for-the-badge&logo=github)](https://github.com/Abhaydahe/Sales-Performance-Customer-Insights-Dashboard)
 
 
-
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhaydahe&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaydahe&layout=compact&theme=radical"/>
-</p>
+## 🌟 What Sets Me Apart
+
+<div align="center">
+
+| 💡 **Problem Solver** | 📈 **Business-Focused** | 🚀 **Innovation-Driven** |
+|:---------------------:|:----------------------:|:------------------------:|
+| Transform complex data challenges into actionable solutions | Align analytics with business objectives and KPIs | Leverage cutting-edge tools and methodologies |
+
+</div>
+
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhaydahe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaydahe&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaydahe&theme=algolia" alt="Abhay's GitHub Streak" />
+</div>
 
 ---
 
@@ -120,5 +143,18 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhay-dahe)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](abhaydahe2206@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Data is the new oil, but insights are the refined fuel that powers business growth"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhaydahe&color=blue&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Abhaydahe?style=for-the-badge&color=green)](https://github.com/Abhaydahe)
+
+⭐ **Star my repositories if you find them helpful!**
 
 </div>
