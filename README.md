@@ -71,7 +71,7 @@
 ---
 
 ## 💼 **Core Competencies**
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -103,14 +103,14 @@
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🏆 **Featured Projects**
 
 ### ⚡ **[Automated Loan Default Risk Analysis Dashboard using MySQL - Power BI - Dataflows](https://github.com/Abhaydahe/Automated-Data-Pipeline-Dataflow)**
 
-[![Project](https://img.shields.io/badge/🔗_View_Project-Data%20Automation-teal?style=for-the-badge&logo=github)](#)
+[![Project](https://img.shields.io/badge/🔗_View_Project-Data%20Automation-teal?style=for-the-badge&logo=github)](https://github.com/Abhaydahe/-Automated-Loan-Default-Risk-Analysis-Dashboard-using-MySQL---Power-BI---Dataflows)
 
 **🎯 Business Challenge**: Financial institutions face a high risk of loan defaults, which directly impacts profitability and liquidity. Without an effective way to identify high-risk borrowers early, banks often.
 
