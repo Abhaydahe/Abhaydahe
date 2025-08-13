@@ -108,62 +108,45 @@
 
 ## 🏆 **Featured Projects**
 
-### 🌡️ **[Climate Data Analytics Pipeline](https://github.com/Abhaydahe/Climate-Data-Dashboard-using-AWS-S3-Snowflake-Power-BI)**
+### ⚡ **[Automated Loan Default Risk Analysis Dashboard using MySQL - Power BI - Dataflows](https://github.com/Abhaydahe/Automated-Data-Pipeline-Dataflow)**
+
+[![Project](https://img.shields.io/badge/🔗_View_Project-Data%20Automation-teal?style=for-the-badge&logo=github)](#)
+
+**🎯 Business Challenge**: Financial institutions face a high risk of loan defaults, which directly impacts profitability and liquidity. Without an effective way to identify high-risk borrowers early, banks often.
+
+**💡 Solution**: I developed an interactive Loan Default Analysis dashboard using MySQL → Power BI Dataflow → Power BI Service with automated refresh.
+
+**🔧 Tech Stack**: `Power BI Dataflow` `Power Query` `Scheduled Refresh` `PowerBi` `MySQL`
+
+---
+
+### 🌡️ **[Climate-Data-Dashboard-using-AWS-S3-Snowflake-Power-BI](https://github.com/Abhaydahe/Climate-Data-Dashboard-using-AWS-S3-Snowflake-Power-BI)**
 > **AWS S3 → Snowflake → Power BI | Enterprise Data Solution**
 
 [![Project](https://img.shields.io/badge/🔗_View_Project-Climate%20Analytics-blue?style=for-the-badge&logo=github)](https://github.com/Abhaydahe/Climate-Data-Dashboard-using-AWS-S3-Snowflake-Power-BI)
 
 **🎯 Business Challenge**: Agricultural stakeholders needed real-time climate insights for data-driven farming decisions across multiple regions.
 
-**💡 Solution**: Built end-to-end cloud data pipeline processing rainfall, temperature, and humidity data with automated reporting and predictive analytics.
+**💡 Solution**: Architected a complete **cloud-native data pipeline** processing climate data from multiple sources, delivering interactive dashboards that predict seasonal patterns and crop suitability
 
-**📊 Impact**: 
-- ⚡ **Automated reporting** for 1000+ agricultural stakeholders
-- 📈 **70% faster** decision-making through real-time insights
-- 💰 **$25K savings** in manual data processing costs
 
-**🔧 Tech Stack**: `AWS S3` `Snowflake` `Power BI` `SQL` `Python`
+**🔧 Tech Stack**: `AWS S3` `Snowflake` `Power BI` `SQL`
 
 ---
 
-### 📚 **[E-Commerce Market Intelligence System](https://github.com/Abhaydahe/WebScrapping-and-Data-Visualization)**
+### 📚 **[WebScrapping-and-Data-Visualization](https://github.com/Abhaydahe/WebScrapping-and-Data-Visualization)**
 > **Web Scraping → Data Analysis → Market Insights**
 
 [![Project](https://img.shields.io/badge/🔗_View_Project-Market%20Intelligence-green?style=for-the-badge&logo=github)](https://github.com/Abhaydahe/WebScrapping-and-Data-Visualization)
 
-**🎯 Business Challenge**: Manual price tracking across e-commerce platforms was inefficient and prevented competitive pricing strategies.
+**🎯 Business Challenge**: E-commerce businesses needed real-time competitor pricing and market trend analysis to maintain competitive advantage.
 
-**💡 Solution**: Developed automated web scraping system with real-time price monitoring, market analysis, and competitive intelligence dashboards.
-
-**📊 Impact**:
-- ⚡ **95% reduction** in manual data collection time
-- 📈 **15% pricing optimization** opportunities identified
-- 🎯 **500+ products** tracked with 99% accuracy
-- 💼 **Real-time alerts** for inventory optimization
+**💡 Solution**:Developed an **intelligent web scraping system** with advanced data processing capabilities, delivering clean, analysis-ready market intelligence data.
 
 **🔧 Tech Stack**: `Python` `BeautifulSoup` `Requests` `Pandas` `SQL` `Matplotlib`
 
 ---
 
-### ⚡ **[Automated Data Pipeline with Power BI Dataflow](https://github.com/Abhaydahe/Automated-Data-Pipeline-Dataflow)**
-> **Enterprise Data Automation → Self-Service Analytics → 24/7 Availability**
-
-[![Project](https://img.shields.io/badge/🔗_View_Project-Data%20Automation-teal?style=for-the-badge&logo=github)](#)
-
-**🎯 Business Challenge**: Manual data preparation was bottlenecking business intelligence and creating dependency on IT resources.
-
-**💡 Solution**: Implemented self-service data preparation platform with automated ETL processes, intelligent refresh scheduling, and error monitoring.
-
-**📊 Impact**:
-- ⚡ **90% reduction** in manual data processing
-- 🔄 **24/7 data availability** with automated refresh
-- 📈 **Self-service analytics** empowering business users
-- 💰 **40% cost reduction** in data operations
-
-**🔧 Tech Stack**: `Power BI Dataflow` `Power Query` `Scheduled Refresh` `Data Gateway` `Azure`
-
-
----
 
 ## 📊 GitHub Analytics
 
