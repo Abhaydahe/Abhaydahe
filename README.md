@@ -106,6 +106,21 @@
 </div>
 
 ---
+## 🏆 Awards & Recognition
+
+<div align="center">
+
+### **🥈 FLIPKART SILVER SELLER AWARD**
+**JD Enterprises PVT LTD | December 2021**
+
+**Awarded for exceptional e-commerce performance with ₹11.5L+ GMV, 1,834 units sold, and 0.00% operational errors**  
+*Recognized by Flipkart Marketplace for outstanding growth index of 4.33 and perfect operational excellence*
+
+<br>
+
+[![View Award Details](https://img.shields.io/badge/🎖️_VIEW_AWARD_DETAILS-Click_Here-gold?style=for-the-badge&labelColor=darkred&color=gold&logo=github)](https://github.com/Abhaydahe/flipkart-silver-seller-award)
+
+---
 
 ## 🏆 **Featured Projects**
 
