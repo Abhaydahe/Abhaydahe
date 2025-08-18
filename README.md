@@ -119,6 +119,7 @@
 <br>
 
 [![View Award Details](https://img.shields.io/badge/🎖️_VIEW_AWARD_DETAILS-Click_Here-gold?style=for-the-badge&labelColor=darkred&color=gold&logo=github)](https://github.com/Abhaydahe/flipkart-silver-seller-award)
+</div>
 
 ---
 
