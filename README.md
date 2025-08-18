@@ -6,8 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Transforming+Raw+Data+Into+Strategic+Insights;AWS-S3+%7C+Power+BI+%7C+Python+%7C+SQL+Expert;Building+Enterprise-Grade+Data+Solutions;Ready+to+Drive+Your+Business+Growth!)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/🎓_B.Tech-Computer%20Engineering-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📍_Location-Pune%2C%20Maharashtra-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💼_Open_to-Full--time%20Opportunities-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎯_Focus-Data%20Analytics%20%26%20BI-orange?style=for-the-badge"/>
 
 </div>
